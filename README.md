@@ -1,4 +1,4 @@
-#This is a PWA, a weather app, built in React. When your offline it displats an offline.html. It has a service worker and demonstrates the workings of a PWA but is useless off line. The app is published on netlify here https://hill-weather-pwa.netlify.app/.
+This is a PWA, a weather app, built in React. When your offline it displats an offline.html. It has a service worker and demonstrates the workings of a PWA but is useless off line. The app is published on netlify here https://hill-weather-pwa.netlify.app/.
 
 # Getting Started with Create React App
 
